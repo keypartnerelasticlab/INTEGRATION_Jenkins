@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "bed3a4f0-6fe7-11e8-836e-994a311dfd38",
+    "_type": "dashboard",
+    "_source": {
+      "title": "DevOps_Overview_0",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"gridData\":{\"h\":3,\"i\":\"8\",\"w\":6,\"x\":0,\"y\":0},\"id\":\"13a13af0-730e-11e8-bbb2-b1f432fbdcea\",\"panelIndex\":\"8\",\"title\":\"Real Time BW6 deploy activity\",\"type\":\"visualization\",\"version\":\"6.2.4\"},{\"embeddableConfig\":{\"vis\":{\"colors\":{\"Finished: FAILURE\":\"#BF1B00\",\"Finished: SUCCESS\":\"#5195CE\"},\"legendOpen\":true}},\"gridData\":{\"h\":3,\"i\":\"9\",\"w\":6,\"x\":6,\"y\":0},\"id\":\"17e01ae0-73c3-11e8-9358-a5a110481e2a\",\"panelIndex\":\"9\",\"title\":\"BW6 Build activity\",\"type\":\"visualization\",\"version\":\"6.2.1\"},{\"embeddableConfig\":{\"vis\":{\"colors\":{\"Finished: FAILURE\":\"#BF1B00\",\"Finished: SUCCESS\":\"#629E51\"}}},\"gridData\":{\"h\":3,\"i\":\"10\",\"w\":6,\"x\":6,\"y\":3},\"id\":\"a2c7ab70-73cb-11e8-8abf-4584bbfa301e\",\"panelIndex\":\"10\",\"title\":\"BW6 PROD deploy\",\"type\":\"visualization\",\"version\":\"6.2.1\"},{\"embeddableConfig\":{\"vis\":{\"colors\":{\"Finished: FAILURE\":\"#BF1B00\",\"Finished: SUCCESS\":\"#1F78C1\"}}},\"gridData\":{\"h\":3,\"i\":\"11\",\"w\":6,\"x\":0,\"y\":3},\"id\":\"268a8ae0-73c7-11e8-8b84-abbce47f4e18\",\"panelIndex\":\"11\",\"title\":\"BW6 QAS deploy\",\"type\":\"visualization\",\"version\":\"6.2.1\"}]",
+      "optionsJSON": "{\"darkTheme\":false,\"hidePanelTitles\":false,\"useMargins\":true}",
+      "version": 1,
+      "timeRestore": false,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"query\":{\"language\":\"lucene\",\"query\":\"\"},\"filter\":[],\"highlightAll\":true,\"version\":true}"
+      }
+    }
+  }
+]
