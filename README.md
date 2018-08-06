@@ -6,7 +6,7 @@ Visualizations and dashboard for showing Jenkins devOps performances
 
 - Query for all documents of kibana index
 
-*curl -XGET 'http://localhost:9223/.kibana/_search?pretty' -H 'Content-Type: application/json' -d'
+*curl --user elastic:elastic -XGET 'http://localhost:9223/.kibana/_search?pretty' -H 'Content-Type: application/json' -d'
 {
 	"size": 10000,
 	"query": {
